@@ -11,7 +11,7 @@ I build software and I'm growing into defensive security. I like understanding h
 - Detection engineering with **Sigma rules** and **MITRE ATT&CK**
 - Network forensics with **Wireshark** and **NetworkMiner**
 
-## Development
+## Tech Stack
 - **Languages:** Python, JavaScript, Kotlin, Dart
 - **Frontend/Mobile:** React, React Native, Tailwind CSS, HTML, Flutter
 - **Tools:** Linux, Git & GitHub
